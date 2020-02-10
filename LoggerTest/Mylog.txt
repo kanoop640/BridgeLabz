@@ -1,0 +1,6 @@
+14:50:46,003 [D:\Anoop_kumar\DotNet\LoggerTest\Program.cs] ERROR - It is system error
+14:51:10,561 [D:\Anoop_kumar\DotNet\LoggerTest\Program.cs] ERROR - It is system error
+14:51:49,005 [D:\Anoop_kumar\DotNet\LoggerTest\Program.cs] ERROR - It is system error
+14:53:33,914 [D:\Anoop_kumar\DotNet\LoggerTest\Program.cs] ERROR - It is system error
+14:54:38,086 [D:\Anoop_kumar\DotNet\LoggerTest\Program.cs] ERROR - It is system error
+15:16:07,571 [D:\Anoop_kumar\DotNet\LoggerTest\Program.cs] ERROR - It is system error
