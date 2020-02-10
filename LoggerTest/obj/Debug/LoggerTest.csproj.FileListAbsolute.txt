@@ -7,3 +7,12 @@ D:\Anoop_kumar\DotNet\LoggerTest\obj\Debug\LoggerTest.csprojAssemblyReference.ca
 D:\Anoop_kumar\DotNet\LoggerTest\obj\Debug\LoggerTest.csproj.CopyComplete
 D:\Anoop_kumar\DotNet\LoggerTest\obj\Debug\LoggerTest.exe
 D:\Anoop_kumar\DotNet\LoggerTest\obj\Debug\LoggerTest.pdb
+D:\GitTest\LoggerTest\bin\Debug\LoggerTest.exe.config
+D:\GitTest\LoggerTest\bin\Debug\LoggerTest.exe
+D:\GitTest\LoggerTest\bin\Debug\LoggerTest.pdb
+D:\GitTest\LoggerTest\bin\Debug\log4net.dll
+D:\GitTest\LoggerTest\bin\Debug\log4net.xml
+D:\GitTest\LoggerTest\obj\Debug\LoggerTest.csprojAssemblyReference.cache
+D:\GitTest\LoggerTest\obj\Debug\LoggerTest.csproj.CopyComplete
+D:\GitTest\LoggerTest\obj\Debug\LoggerTest.exe
+D:\GitTest\LoggerTest\obj\Debug\LoggerTest.pdb

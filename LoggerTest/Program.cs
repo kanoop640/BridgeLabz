@@ -17,6 +17,7 @@ namespace LoggerTest
         static void Main(string[] args)
         {
             Console.WriteLine("hello .net ");
+            log.Info("Helo This is info statement");
             log.Error("It is system error");
             Console.ReadLine();
         }
