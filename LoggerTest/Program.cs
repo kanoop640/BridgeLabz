@@ -20,6 +20,8 @@ namespace LoggerTest
             log.Info("Helo This is info statement");
             log.Error("It is system error");
             Console.WriteLine("hello imran");
+            Console.WriteLine("hello imran");
+            Console.WriteLine("hello imran");
             Console.ReadLine();
         }
     }
